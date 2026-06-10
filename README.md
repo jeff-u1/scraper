@@ -1,2 +1,5 @@
-# scraper
-scrape website has built in delay. might not work properly 
+*python webscraper.
+
+* scrape website has built in delay. might not work properly.
+  
+* install necessary requirements.
